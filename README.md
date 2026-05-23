@@ -17,9 +17,7 @@
 
 <p align="center">
   <a href="https://teaortae.github.io/">Portfolio</a> |
-  <a href="https://github.com/teaortae">GitHub</a> |
   <a href="mailto:teaortae@gmail.com">Email</a> |
-  <a href="https://www.biblylab.com">BIBLY Lab</a>
 </p>
 
 <h3 align="center">About Me</h3>
