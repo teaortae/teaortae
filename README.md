@@ -53,7 +53,7 @@
 
 | Project | Description |
 | --- | --- |
-| Dessert39 Franchise / Order App | 로그인, 주문, 알림, 정산, 상품, Q&A, 반품, 예약, 매장 물류, 이미지 업로드, 로컬 캐싱, Firebase 기반 운영 기능을 포함한 Kotlin + Jetpack Compose 앱 |
+| Dessert39 Order App | 로그인, 주문, 알림, 정산, 상품, Q&A, 반품, 예약, 매장 물류, 이미지 업로드, 로컬 캐싱, Firebase 기반 운영 기능을 포함한 Kotlin + Jetpack Compose 앱 · [Google Play](https://play.google.com/store/apps/details?id=com.mandeum.dessert39) |
 | Dessert39 DID TV App | Compose for TV UI, Ktor 콘텐츠 다운로드, Hilt + WorkManager 백그라운드 작업, Media3 ExoPlayer 재생, DataStore 설정, TV 리모컨 포커스 UX를 적용한 Android TV 사이니지 앱 |
 | Dessert39 AI Helper | Compose UI, Ktor 네트워킹, DataStore, Firebase Messaging/Analytics/Crashlytics, WebView, 앱 업데이트 플로우, API 스키마 마이그레이션을 포함한 매장 운영 앱 유지보수 및 개선 |
 | 1억뷰 엔잡 Education App | 소셜 로그인, Google Play Billing, Retrofit, Koin 마이그레이션, Epoxy 리스트, Glide 이미지, WebView, ExoPlayer2 강의 재생을 포함한 Kotlin Android 교육 앱 |
