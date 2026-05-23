@@ -54,8 +54,8 @@ Recently I have focused on Dessert39 service apps: franchise ordering, store ope
 | Project | Description |
 | --- | --- |
 | Dessert39 Order App | Kotlin + Jetpack Compose app for login, orders, notifications, settlement, products, Q&A, returns, reservations, store logistics, image upload, local caching, and Firebase-based operations · [Google Play](https://play.google.com/store/apps/details?id=com.mandeum.dessert39) |
-| Dessert39 DID TV App | Android TV signage app with Compose for TV UI, Ktor content downloads, Hilt + WorkManager background jobs, Media3 ExoPlayer playback, DataStore settings, and TV remote focus UX · [Google Play](https://play.google.com/store/apps/details?id=com.smc.signage) |
 | Dessert39 AI Helper | Store operation app maintenance and improvement with Compose UI, Ktor networking, DataStore, Firebase Messaging/Analytics/Crashlytics, WebView, app update flows, and API schema migration · [Google Play](https://play.google.com/store/apps/details?id=com.smc.dessert39admin) |
+| Dessert39 DID TV App | Android TV signage app with Compose for TV UI, Ktor content downloads, Hilt + WorkManager background jobs, Media3 ExoPlayer playback, DataStore settings, and TV remote focus UX · [Google Play](https://play.google.com/store/apps/details?id=com.smc.signage) |
 | 1억뷰 엔잡 Education App | Kotlin Android education app with social login, Google Play billing, Retrofit, Koin migration, Epoxy lists, Glide images, WebView, and ExoPlayer2 lecture playback |
 | POS / QR Payment / MDM / Public Apps | Android POS and QR payment apps, enterprise MDM/MAS maintenance, keyboard security modules, public parking enforcement apps, printer integration, and license plate recognition modules |
 | [bibly](https://www.biblylab.com) | A CMP/KMP side project for geofencing-based, location-aware photo discovery |
