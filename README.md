@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://teaortae.github.io/">Portfolio</a> |
-  <a href="mailto:teaortae@gmail.com">Email</a> |
+  <a href="mailto:teaortae@gmail.com">Email</a>
 </p>
 
 <h3 align="center">About Me</h3>
