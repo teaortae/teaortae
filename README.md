@@ -1,10 +1,10 @@
-<div align="right">
+<div align="center">
   <strong>Language</strong>:
   한국어 |
   <a href="./README.en.md">English</a>
 </div>
 
-<h1 align="center">Taehwan Kim</h1>
+<h3 align="center">Taehwan Kim</h3>
 
 <p align="center">
   Android Developer in Seoul<br />
@@ -22,25 +22,33 @@
   <a href="https://www.biblylab.com">BIBLY Lab</a>
 </p>
 
----
+<h3 align="center">About Me</h3>
 
-## About Me
+<p align="center">
+저는 11년 이상 Android 애플리케이션을 개발하고 운영해 온 소프트웨어 엔지니어입니다.<br />
+프랜차이즈 주문 서비스, 매장 운영 도구, Android TV 사이니지, 교육 앱, POS, MDM, 공공 시스템 등<br />
+실제 서비스 환경에서 사용하는 앱을 만들어 왔습니다.
+</p>
 
-저는 11년 이상 Android 애플리케이션을 개발하고 운영해 온 소프트웨어 엔지니어입니다. 프랜차이즈 주문 서비스, 매장 운영 도구, Android TV 사이니지, 교육 앱, POS, MDM, 공공 시스템 등 실제 서비스 환경에서 사용하는 앱을 만들어 왔습니다.
+<p align="center">
+최근에는 Dessert39 서비스 앱에 집중하고 있습니다.<br />
+프랜차이즈 주문, 매장 운영 도구, AI Helper, Android TV 디지털 사이니지처럼 현장에서 안정적으로 동작해야 하는 제품을 다루며,<br />
+유지보수 가능한 구조와 예측 가능한 상태 관리, 안정적인 릴리스를 중요하게 생각합니다.
+</p>
 
-최근에는 Dessert39 서비스 앱에 집중하고 있습니다. 프랜차이즈 주문, 매장 운영 도구, AI Helper, Android TV 디지털 사이니지처럼 현장에서 안정적으로 동작해야 하는 제품을 다루며, 유지보수 가능한 구조와 예측 가능한 상태 관리, 안정적인 릴리스를 중요하게 생각합니다.
+<h3 align="center">Focus</h3>
 
-## Focus
+<p align="center">
+Kotlin, Coroutine, Flow, StateFlow, Jetpack Compose 기반 Android Native 개발<br />
+Voyager, Orbit MVI, Koin/Hilt, DataStore, Room, Firebase를 활용한 Compose-first 앱 아키텍처<br />
+Ktor/Retrofit API 클라이언트, 공통 네트워크 레이어, 로컬 캐싱, 페이징, 운영 환경 오류 추적<br />
+Android TV, Media3 ExoPlayer, WorkManager, QR/CameraX, WebView, 하드웨어 연동<br />
+Kotlin Multiplatform / Compose Multiplatform 지향 클라이언트 구조
+</p>
 
-- Kotlin, Coroutine, Flow, StateFlow, Jetpack Compose 기반 Android Native 개발
-- Voyager, Orbit MVI, Koin/Hilt, DataStore, Room, Firebase를 활용한 Compose-first 앱 아키텍처
-- Ktor/Retrofit API 클라이언트, 공통 네트워크 레이어, 로컬 캐싱, 페이징, 운영 환경 오류 추적
-- Android TV, Media3 ExoPlayer, WorkManager, QR/CameraX, WebView, 하드웨어 연동
-- Kotlin Multiplatform / Compose Multiplatform 지향 클라이언트 구조
+<h3 align="center">Tech Stack</h3>
 
-## Tech Stack
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
@@ -49,7 +57,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 </p>
 
-## Featured Projects
+<h3 align="center">Featured Projects</h3>
 
 | Project | Description |
 | --- | --- |

@@ -1,10 +1,10 @@
-<div align="right">
+<div align="center">
   <strong>Language</strong>:
   <a href="./README.md">한국어</a> |
   English
 </div>
 
-<h1 align="center">Taehwan Kim</h1>
+<h3 align="center">Taehwan Kim</h3>
 
 <p align="center">
   Android Developer in Seoul<br />
@@ -22,25 +22,31 @@
   <a href="https://www.biblylab.com">BIBLY Lab</a>
 </p>
 
----
+<h3 align="center">About Me</h3>
 
-## About Me
+<p align="center">
+I am an Android software engineer with 11+ years of experience building and operating real-world applications.<br />
+My work spans franchise order services, store operation tools, Android TV signage, education apps, POS, MDM, and public-sector systems.
+</p>
 
-I am an Android software engineer with 11+ years of experience building and operating real-world applications across franchise order services, store operation tools, Android TV signage, education apps, POS, MDM, and public-sector systems.
+<p align="center">
+Recently I have focused on Dessert39 service apps: franchise ordering, store operation tools, AI Helper, and Android TV digital signage.<br />
+I like turning technology into maintainable products with stable releases, readable architecture, predictable state management, and user flows that keep working in the field.
+</p>
 
-Recently I have focused on Dessert39 service apps: franchise ordering, store operation tools, AI Helper, and Android TV digital signage. I like turning technology into maintainable products: stable releases, readable architecture, predictable state management, and user flows that keep working in the field.
+<h3 align="center">Focus</h3>
 
-## Focus
+<p align="center">
+Android Native development with Kotlin, Coroutine, Flow, StateFlow, and Jetpack Compose<br />
+Compose-first app architecture with Voyager, Orbit MVI, Koin/Hilt, DataStore, Room, and Firebase<br />
+Ktor/Retrofit API clients, common network layers, local caching, paging, and production error tracking<br />
+Android TV, Media3 ExoPlayer, WorkManager background jobs, QR/CameraX, WebView, and hardware integration<br />
+Kotlin Multiplatform / Compose Multiplatform-oriented client structure
+</p>
 
-- Android Native development with Kotlin, Coroutine, Flow, StateFlow, and Jetpack Compose
-- Compose-first app architecture with Voyager, Orbit MVI, Koin/Hilt, DataStore, Room, and Firebase
-- Ktor/Retrofit API clients, common network layers, local caching, paging, and production error tracking
-- Android TV, Media3 ExoPlayer, WorkManager background jobs, QR/CameraX, WebView, and hardware integration
-- Kotlin Multiplatform / Compose Multiplatform-oriented client structure
+<h3 align="center">Tech Stack</h3>
 
-## Tech Stack
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
@@ -49,7 +55,7 @@ Recently I have focused on Dessert39 service apps: franchise ordering, store ope
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 </p>
 
-## Featured Projects
+<h3 align="center">Featured Projects</h3>
 
 | Project | Description |
 | --- | --- |
