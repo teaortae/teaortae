@@ -60,10 +60,3 @@ Recently I have focused on Dessert39 service apps: franchise ordering, store ope
 | POS / QR Payment / MDM / Public Apps | Android POS and QR payment apps, enterprise MDM/MAS maintenance, keyboard security modules, public parking enforcement apps, printer integration, and license plate recognition modules |
 | [bibly](https://www.biblylab.com) | A CMP/KMP side project for geofencing-based, location-aware photo discovery |
 | [Portfolio](https://teaortae.github.io/) | Career, projects, service experience, and public links |
-
-## GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=teaortae&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teaortae&layout=compact&hide_border=true" />
-</p>

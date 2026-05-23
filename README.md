@@ -60,10 +60,3 @@
 | POS / QR Payment / MDM / Public Apps | Android POS 및 QR 결제 앱, 엔터프라이즈 MDM/MAS 유지보수, 키보드 보안 모듈, 공공 주정차 단속 앱, 프린터 연동, 차량 번호 인식 모듈 |
 | [bibly](https://www.biblylab.com) | CMP/KMP로 만든 지오펜싱 기반 위치 기반 사진 찾기 사이드 프로젝트 |
 | [Portfolio](https://teaortae.github.io/) | 경력, 프로젝트, 서비스 경험, 공개 링크를 정리한 개인 포트폴리오 |
-
-## GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=teaortae&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teaortae&layout=compact&hide_border=true" />
-</p>
