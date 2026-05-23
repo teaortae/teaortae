@@ -58,7 +58,7 @@ Recently I have focused on Dessert39 service apps: franchise ordering, store ope
 | Dessert39 AI Helper | Store operation app maintenance and improvement with Compose UI, Ktor networking, DataStore, Firebase Messaging/Analytics/Crashlytics, WebView, app update flows, and API schema migration |
 | 1억뷰 엔잡 Education App | Kotlin Android education app with social login, Google Play billing, Retrofit, Koin migration, Epoxy lists, Glide images, WebView, and ExoPlayer2 lecture playback |
 | POS / QR Payment / MDM / Public Apps | Android POS and QR payment apps, enterprise MDM/MAS maintenance, keyboard security modules, public parking enforcement apps, printer integration, and license plate recognition modules |
-| [bibly](https://www.biblylab.com) | A project that makes reading and personal records easier to manage |
+| [bibly](https://www.biblylab.com) | A CMP/KMP side project for geofencing-based, location-aware photo discovery |
 | [Portfolio](https://teaortae.github.io/) | Career, projects, service experience, and public links |
 
 ## GitHub

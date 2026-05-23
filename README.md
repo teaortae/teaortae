@@ -58,7 +58,7 @@
 | Dessert39 AI Helper | Compose UI, Ktor 네트워킹, DataStore, Firebase Messaging/Analytics/Crashlytics, WebView, 앱 업데이트 플로우, API 스키마 마이그레이션을 포함한 매장 운영 앱 유지보수 및 개선 |
 | 1억뷰 엔잡 Education App | 소셜 로그인, Google Play Billing, Retrofit, Koin 마이그레이션, Epoxy 리스트, Glide 이미지, WebView, ExoPlayer2 강의 재생을 포함한 Kotlin Android 교육 앱 |
 | POS / QR Payment / MDM / Public Apps | Android POS 및 QR 결제 앱, 엔터프라이즈 MDM/MAS 유지보수, 키보드 보안 모듈, 공공 주정차 단속 앱, 프린터 연동, 차량 번호 인식 모듈 |
-| [bibly](https://www.biblylab.com) | 독서와 기록 경험을 더 편하게 관리할 수 있도록 만드는 프로젝트 |
+| [bibly](https://www.biblylab.com) | CMP/KMP로 만든 지오펜싱 기반 위치 기반 사진 찾기 사이드 프로젝트 |
 | [Portfolio](https://teaortae.github.io/) | 경력, 프로젝트, 서비스 경험, 공개 링크를 정리한 개인 포트폴리오 |
 
 ## GitHub
