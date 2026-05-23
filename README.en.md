@@ -32,6 +32,11 @@ Recently I have focused on Dessert39 service apps: franchise ordering, store ope
 I like turning technology into maintainable products with stable releases, readable architecture, predictable state management, and user flows that keep working in the field.
 </p>
 
+<p align="center">
+Outside company work, I also build side projects with Android recommended architecture and design approaches shaped by production experience.<br />
+I actively use Codex while building KMP/CMP-based multiplatform projects.
+</p>
+
 <h3 align="center">Focus</h3>
 
 <p align="center">
